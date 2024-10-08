@@ -27,11 +27,15 @@ This is a React-based e-commerce application that fetches product data from the 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/fake-store-app.git
-npm install
 
-npm start
+2. Install dependencies:
+   ```bash
+   npm install
 
+3. Start the development server:
+   ```bash
+   npm start
 
-### Conclusion
-With this complete setup, you will have a fully functional React application that fetches products from the Fake Store API, allows users to manage their cart, and uses Tailwind CSS for styling. If you have any further questions or need additional features, feel free to ask!
-
+## API Used
+```bash
+https://fakestoreapi.com/
